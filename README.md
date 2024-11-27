@@ -70,9 +70,9 @@
   </section>
 
   <hr style="border: 1px solid #ddd; margin: 40px 0;">
-
-  <section style="text-align: center;">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21azjgsedrvj6yvadlpjclkyy&unique={true|1|on|yes}&count=1" alt="Recently Played on Spotify" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  </section>
-
+<!-- 1. 
+2.   <section style="text-align: center;">
+3.     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21azjgsedrvj6yvadlpjclkyy&unique={true|1|on|yes}&count=1" alt="Recently Played on Spotify" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+4.   </section>
+ -->
 </div>
