@@ -54,10 +54,10 @@
       <img src="https://github-profile-trophy.vercel.app/?username=gaston-rausch-tuix" alt="Trophy" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
     </a> 
 -->
-    <a href="https://git.io/streak-stats">
+<!--     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaston-rausch-tuix" alt="GitHub Streak" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
     </a>
-  </section>
+  </section> -->
 
   <hr style="border: 1px solid #ddd; margin: 40px 0;">
 
