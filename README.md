@@ -10,25 +10,27 @@
 <!--       <li>💻 <strong>Profession</strong>: Electronic Engineer and Full Stack Developer</li> -->
       <li>💻 <strong>Profession</strong>: Full Stack Developer.</li>
       <li>🇦🇷 <strong>Location</strong>: Argentina, Bs As.</li>
-      <li>🛠️ <strong>Skills</strong>: 
+<!--       <li>🛠️ <strong>Skills</strong>: 
         <ul style="margin-top: 8px; font-size: 1rem;">
           <li>Frontend: React, Next, Vue</li>
           <li>Backend: Node.js, Nest.js, Go.</li>
-          <li>Databases: PostgreSQL, MongoDB.</li>
+          <li>Databases: PostgreSQL, MongoDB.</li> -->
 <!--           <li>Embedded: STM32, ESP32, </li> -->
-          <li>Others: Docker, Terraform, AWS, CI/CD.</li>
+<!--           <li>Others: Docker, Terraform, AWS, CI/CD.</li>
         </ul>
-      </li>
-    </ul>
+      </li> -->
+<!--     </ul> -->
   </section>
 
+<!--
   <section style="max-width: 900px; margin: 20px auto; padding: 20px; background-color: #f7f7f7; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="font-size: 1.8rem; color: #007BFF;">🌐 My Work</h3>
     <p style="font-size: 1.1rem;">🏗️ I love working on scalable web applications.</p>
     <p style="font-size: 1.1rem;">⚙️ I love automating processes and improving performance.</p>
     <p style="font-size: 1.1rem;">🎨 I also like my work to look nice. </p>
-<!--     <p style="font-size: 1.1rem;">👨🏻‍💻 Me encanta trabajar con sistemas embebidos y conectarlos con la nube.</p> -->
+    <p style="font-size: 1.1rem;">👨🏻‍💻 Me encanta trabajar con sistemas embebidos y conectarlos con la nube.</p> 
   </section>
+  -->
 <!-- 1. 
 2.   <section style="max-width: 900px; margin: 20px auto; padding: 20px; background-color: #f7f7f7; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
 3.     <h3 style="font-size: 1.8rem; color: #007BFF;">🎮 Fun Facts</h3>
