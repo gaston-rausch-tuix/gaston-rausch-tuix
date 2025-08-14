@@ -8,8 +8,8 @@
     <h3 style="font-size: 1.8rem; color: #007BFF;">🌟 About Me</h3>
     <ul style="list-style-type: none; padding-left: 0; font-size: 1.1rem;">
 <!--       <li>💻 <strong>Profession</strong>: Electronic Engineer and Full Stack Developer</li> -->
-      <li>💻 <strong>Profession</strong>: Full Stack Developer.</li>
-      <li>🇦🇷 <strong>Location</strong>: Argentina, Bs As.</li>
+      <li>💻: Full Stack Developer from Argentina 🇦🇷.</li>
+<!--       <li>: Argentina, Bs As.</li> -->
 <!--       <li>🛠️ <strong>Skills</strong>: 
         <ul style="margin-top: 8px; font-size: 1rem;">
           <li>Frontend: React, Next, Vue</li>
